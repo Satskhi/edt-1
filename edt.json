@@ -2,7 +2,7 @@
     "room": "EDT",
     "author": "Burkes",
     "icon": "https://cdn.rawgit.com/Burkes/edt/master/images/edt-emoji.png",
-    "css": "https://cdn.rawgit.com/Burkes/edt/master/edt.css",
+    "css": "https://cdn.rawgit.com/Burkes/edt/master/edt-css.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
