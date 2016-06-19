@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "https://cdn.rawgit.com/Burkes/edt/master/images/2k15nyc.jpg",
-        "playback": null,
+        "playback": "https://cdn.rawgit.com/Burkes/edt/master/images/nyc.png",
         "admin": null,
         "ambassador": null,
         "host": null,
