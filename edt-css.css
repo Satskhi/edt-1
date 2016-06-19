@@ -63,7 +63,7 @@
 }
 
 /* Xuxa */
-[data-cid^="3427443-"] .msg .from .icon-chat-ambassaddor, #user-lists .list.room .id-3703511 .icon-chat-ambassador {
-    background: url("https://cdn.rawgit.com/Burkes/edt/master/images/ambassador.gif") !important;
+[data-cid^="3427443-"] .msg .from .icon-chat-ambassaddor, #user-lists .list.room .id-3427443 .icon-chat-ambassador {
+    background: url("https://cdn.rawgit.com/Burkes/edt/master/images/ambassador.png") !important;
     margin-left: 1px !important;
 }
