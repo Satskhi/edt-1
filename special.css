@@ -1,0 +1,36 @@
+/* EDTBot CSS /*
+[data-cid^="13720951-"] i.bdg{
+	background-image: url("https://cdn.rawgit.com/Burkes/edt/master/images/edt-emoji.png") !important;
+    background-repeat: round !important;
+	background-size: 55px;
+    background-color: rgba(59, 97, 65, 0.3);
+}
+#chat [data-cid^="13720951-"] .icon {
+display:none !important;
+}
+#chat [data-cid^="13720951-"] span.un.clickable {
+color: #5ad264 !important;
+}
+#chat .msg .text .id-13720951, #chat .msg .text .name.id-13720951, #chat .msg .text .name.id-13720951 .name {
+color: #5ad264 !important;
+}
+.id-13720951 span.un.clickable, #user-lists .list.room .id-13720951 .name, #user-lists .list.room .is-ambassador.id-13720951 .name, #user-lists .list.room .is-staff.id-13720951 .name, #user-lists .list.room .is-dj.id-13720951 .name, #user-lists .list.room .is-subscriber.id-13720951 .name, #user-lists .list.room [class*='role'].id-13720951 .name {
+color: #5ad264 !important;
+}
+#chat [data-cid^="13720951-"].emote {
+    background: rgba(59, 97, 65, 0.3) !important;
+}
+#chat [data-cid^="13720951-"].emote .timestamp {
+    color: #cdffc7 !important;
+}
+#chat [data-cid^="13720951-"].emote .text {
+    color: #cdffc7 !important;
+}
+#chat .msg .text .id-13720951,
+#chat .msg .text .name.id-13720951,
+#chat .msg .text .name.id-13720951 .name {
+    color: #a3ff76 !important;
+}
+#user-rollover.id-13720951 .username {
+    color: #a3ff76 !important;
+}
