@@ -19,13 +19,13 @@ color: #5ad264 !important;
 }
 #chat [data-cid^="13720951-"].emote {
     background: rgba(59, 97, 65, 0.3) !important;
+    border-left: rgb(69, 189, 84) 3px solid !important;
 }
 #chat [data-cid^="13720951-"].emote .timestamp {
     color: #cdffc7 !important;
 }
 #chat [data-cid^="13720951-"].emote .text {
     color: #cdffc7 !important;
-    border-left: rgb(69, 189, 84) 3px solid !important;
 }
 #chat .msg .text .id-13720951,
 #chat .msg .text .name.id-13720951,
