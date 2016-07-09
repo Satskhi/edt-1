@@ -93,11 +93,11 @@
     background: #39688D !important;
 }
 .media-list .row.now-playing {
-    background: #FF3558 !important;
-    border-bottom: 1px solid #ff5f7c !important;
+    background: #357cff !important;
+    border-bottom: 1px solid #2e7cdc !important;
 }
 #playlist-menu .menu .row .count {
-    color: #FF3558 !important;
+    color: #35ffe5 !important;
 }
 #grab .bottom #grab.selected {
     background: #00afe4 !important;
@@ -115,7 +115,7 @@
     background: none !important;
 }
 #playlist-activate-button span {
-    color: #FF3558 !important;
+    color: #2edfff !important;
 }
 .media-list .row.now-playing .actions {
     background: #FF3558 !important;
@@ -153,16 +153,16 @@
     background: #c42e3b !important;
 }
 .tab-menu button.selected {
-    background: #FF3558 !important;
+    background: #2e7cdc !important;
 }
 #dj-button .left {
     background: #00afe4 !important;
 }
 #dj-button.is-leave .left {
-    background: #FF3558 !important;
+    background: #ff0808 !important;
 }
 #dj-button.is-quit .left {
-    background: #FF3558 !important;
+    background: #ff0808 !important;
 }
 .delete-button:hover {
     background: #rFF3558 !important;
