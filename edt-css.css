@@ -34,7 +34,10 @@
     border-radius: 8px;
 }
 #dj-button .left  {
-    background: #aa74ff !important;
+    background: #f76814 !important;
+}
+#dj-button.is-leave .left{
+    background: #ff0808 !important;
 }
 #vote .top {
     background: rgba(34, 34, 36, 0.4) !important;
@@ -46,7 +49,6 @@
 .app-header {
     background: rgba(28, 31, 37, 0.59);
 }
-/*
 #playback-container {
     background-image: url();
     background-position: center;
@@ -81,7 +83,7 @@
     opacity: .7;
 }
 #playlist-button {
-    background: #FF3558 !important;
+        background: linear-gradient(to bottom,#76fff2 0,#5a67ff 100%); !important;
 }
 #playlist-menu .menu .row.selected {
     background: #39688D !important;
@@ -167,8 +169,7 @@
 #chat .icon .icon-p3 {
     background-image: url('') !important;
 }
-/*
-.icon-chat-ambassador + span {
+/*.icon-chat-ambassador + span {
     color: #89be6c !important;
 }
 .icon-chat-host + span {
@@ -185,7 +186,7 @@
 }
 .icon-chat-dj + span {
     color: #89BE6C !important;
-}
+}*/
 #chat .emote #chat .mention #chat .message #chat .moderation #chat .skip #chat .system #chat .update #chat .welcome {
     -webkit-animation: fadein 0.25s;
     -moz-animation: fadein 0.25s;
