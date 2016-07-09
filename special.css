@@ -9,7 +9,7 @@
 display:none !important;
 }
 #chat [data-cid^="13720951-"] span.un.clickable {
-color: #5ad264 !important;
+color: #5accd2 !important
 }
 #chat .msg .text .id-13720951, #chat .msg .text .name.id-13720951, #chat .msg .text .name.id-13720951 .name {
 color: #5ad264 !important;
@@ -18,14 +18,14 @@ color: #5ad264 !important;
 color: #5ad264 !important;
 }
 #chat [data-cid^="13720951-"].emote {
-    background: rgba(59, 97, 65, 0.3) !important;
-    border-left: rgb(69, 189, 84) 3px solid !important;
+    background: rgba(59, 97, 88, 0.3) !important;
+    border-left: rgb(69, 189, 172) 3px solid !important;
 }
 #chat [data-cid^="13720951-"].emote .timestamp {
-    color: #cdffc7 !important;
+    color: #c7fffd !important;
 }
 #chat [data-cid^="13720951-"].emote .text {
-    color: #cdffc7 !important;
+    color: #c7f9ff !important;
 }
 #chat .msg .text .id-13720951,
 #chat .msg .text .name.id-13720951,
