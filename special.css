@@ -25,6 +25,7 @@ color: #5ad264 !important;
 }
 #chat [data-cid^="13720951-"].emote .text {
     color: #cdffc7 !important;
+    border-left: rgb(69, 189, 84) 3px solid !important;
 }
 #chat .msg .text .id-13720951,
 #chat .msg .text .name.id-13720951,
@@ -33,7 +34,4 @@ color: #5ad264 !important;
 }
 #user-rollover.id-13720951 .username {
     color: #a3ff76 !important;
-}
-#chat [data-cid^="13720951-"].emote {
-    border-left: rgb(69, 189, 84) 3px solid !important;
 }
