@@ -173,7 +173,7 @@
 #chat .icon .icon-p3 {
     background-image: url('') !important;
 }
-/*.icon-chat-ambassador + span {
+.icon-chat-ambassador + span {
     color: #89be6c !important;
 }
 .icon-chat-host + span {
@@ -190,7 +190,7 @@
 }
 .icon-chat-dj + span {
     color: #89BE6C !important;
-}*/
+}
 #chat .emote #chat .mention #chat .message #chat .moderation #chat .skip #chat .system #chat .update #chat .welcome {
     -webkit-animation: fadein 0.25s;
     -moz-animation: fadein 0.25s;
