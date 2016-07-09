@@ -2,13 +2,18 @@
 @import url("https://rawgit.com/dh111/edt/master/users.css");
 @import url("https://rawgit.com/dh111/edt/master/alter.css");
 
-.icon-room {
-    width: 75px !important;
+#room-bar .icon-room {
+    background: url(http://i.imgur.com/uwuZ4b5.png);
+    width: 75px;
 }
-
 #room-name, #room-host {
     left: 89px !important;
+    color: #fff !important;
+    font-weight: bold;
+    text-shadow: 2px 0px 11px, #dd00ff;
+    background: url(http://forum.ragezone.com/images/backround6.gif);
 }
+
 
 .msg .from .icon-chat-dj {
     margin-left: 3px !important;
