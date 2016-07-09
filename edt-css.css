@@ -40,6 +40,9 @@
 #dj-button.is-leave .left{
     background: #ff0808 !important;
 }
+#dj-button.is-quit .left {
+    background: #d41010 !important;
+}
 #vote .top {
     background: rgba(34, 34, 36, 0.4) !important;
 }
