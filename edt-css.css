@@ -122,13 +122,13 @@
     color: #2edfff !important;
 }
 .media-list .row.now-playing .actions {
-    background: #FF3558 !important;
+    background: #4687fd !important;
 }
 .media-list .row.selected {
     background: #39688D !important;
 }
 .media-list .selected .actions {
-    background: #FF3558 !important;
+    background: #4687fd !important;
 }
 #user-lists .header .button.staff.selected {
     border-bottom: 1px solid #FF3558 !important;
