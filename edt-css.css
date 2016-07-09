@@ -177,19 +177,19 @@
     color: #89be6c !important;
 }
 .icon-chat-host + span {
-    color: #FF3558 !important;
+    color:#ffc125 !important;
 }
 .icon-chat-cohost + span {
-    color: #FF3558 !important;
+    color: #ffc125 !important;
 }
 .icon-chat-manager + span {
-    color: #0191ff !important;
+    color: #00eeef !important;
 }
 .icon-chat-bouncer + span {
-    color: #01e1ff !important;
+    color: #00bfff !important;
 }
 .icon-chat-dj + span {
-    color: #89BE6C !important;
+    color: #7fc1ea !important;
 }
 #chat .emote #chat .mention #chat .message #chat .moderation #chat .skip #chat .system #chat .update #chat .welcome {
     -webkit-animation: fadein 0.25s;
