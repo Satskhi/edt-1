@@ -1,0 +1,18 @@
+.icon-chat-ambassador + span {
+    color: #89be6c !important;
+}
+.icon-chat-host + span {
+    color:#ffc125 !important;
+}
+.icon-chat-cohost + span {
+    color: #ffc125 !important;
+}
+.icon-chat-manager + span {
+    color: #00eeef !important;
+}
+.icon-chat-bouncer + span {
+    color: #00bfff !important;
+}
+.icon-chat-dj + span {
+    color: #7fc1ea !important;
+}
